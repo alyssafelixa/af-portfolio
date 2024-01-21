@@ -1,8 +1,11 @@
 ---
 layout: post
-title: 'Project Two'
+title: ''
 ---
+## Predict Heroin Overdose Occurrence to Allocate Prevention Resources in Cincinatti, Ohio
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+This project was submited by Alyssa Felix-Arreola and Marissa Cruse during the 2023 Fall semester for Public Policy Analytics at the Weitzman School of Design at the University of Pennsylvania.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+The objective of this project was to build a machine learning algorithm based off of environmental risk factors to predict risk of overdose occurence in Cincinnati, Ohio. In addition to predicting risk of overdose, this model can serve as a sighting mechanism for harm reduction resources in Cincinnati, Ohio.
+
+View Submission [here](https://crusem.github.io/PPA_Final/)
