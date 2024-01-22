@@ -13,7 +13,7 @@ This project was submitted for Geospatial Data Science in Python at the Weitzman
 
 The objective of the first part of this assignment was to create vizualizations demonstrating eviction and code violation data in Philadelphia, PA. The objective of the second part of the assignment is to calculate and compare the NDVi in the suburbs and city of Philadelphia, PA.
 
-View the submission [here](file:///Users/alyssafelix/Downloads/assignment-3.html). 
+View the submission [here](file:///Users/alyssafelix/Downloads/assignment-3.html) 
 
 ## Street Networks and Webscraping Using Python
 
@@ -21,7 +21,7 @@ This project was submitted for Geospatial Data Science in Python at the Weitzman
 
 The objective of the first part of the assignment was to create vizualizations to display crash incidence data to a street network. The objective of the second part of the assignment was to use web scraping to extract craigslist apartment listing data and create vizualizations.
 
-View the submission [here](file:///Users/alyssafelix/Downloads/assignment-4.html). 
+View the submission [here](file:///Users/alyssafelix/Downloads/assignment-4.html) 
 
 ## Exploring Yelp Reviews in Philadelphia Using Python 
 
@@ -29,7 +29,7 @@ This project was submitted for Geospatial Data Science in Python at the Weitzman
 
 The objective of the first part of this assignment was to analyze the relationship and correlation between restaurant reviews and income. The second objective was to conduct a sentiment analysis on resturaunt reviews.
 
-View the submission [here](file:///Users/alyssafelix/Desktop/assignment-5.html). 
+View the submission [here](file:///Users/alyssafelix/Desktop/assignment-5.html)
 
 ## Targeting a Housing Subsidy Using R 
 
@@ -39,4 +39,4 @@ This project was submited by Marissa Cruse and Alyssa Felix-Arreola during the 2
 
 The objective of this assignment was to train the best classifier and use the results to inform a cost/benefit analysis for a housing subsidy using R.
 
-View the submission [here](file:///Users/alyssafelix/Downloads/TargetingAHousingSubsidy_AFA.html). 
+View the submission [here](file:///Users/alyssafelix/Downloads/TargetingAHousingSubsidy_AFA.html)
