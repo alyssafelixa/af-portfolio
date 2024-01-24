@@ -21,7 +21,7 @@ This project was submitted for Geospatial Data Science in Python at the Weitzman
 
 The objective of the first part of the assignment was to create vizualizations to display crash incidence data to a street network. The objective of the second part of the assignment was to use web scraping to extract craigslist apartment listing data and create vizualizations.
 
-View the submission [here](file:///Users/alyssafelix/Downloads/assignment-4.html) 
+View the submission [here](https://github.com/alyssafelixa/assignmentsample2/blob/main/assignment-5.html) 
 
 ## Exploring Yelp Reviews in Philadelphia Using Python 
 
