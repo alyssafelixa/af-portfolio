@@ -23,4 +23,4 @@ This project was submited by Marissa Cruse and Alyssa Felix-Arreola during the 2
 
 The objective of this assignment was to train the best classifier and use the results to inform a cost/benefit analysis for a housing subsidy using R.
 
-View the submission [here]([file:///Users/alyssafelix/Downloads/TargetingAHousingSubsidy_AFA.html](https://alyssafelixa.github.io/assignmentsample5/)https://alyssafelixa.github.io/assignmentsample5/)
+View the submission [here](https://alyssafelixa.github.io/assignmentsample5/)
