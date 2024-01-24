@@ -11,4 +11,11 @@ In Fall 2022 and Spring 2024, as a 4th year student at the University of Souther
 
 View the ArcGIS Storymap [Here](https://storymaps.arcgis.com/stories/6afa48090a4a4348b20edabef0cdef8f) 
 
+## The Disproportionate Exposure of Air Pollution on Parks and Communities within Historically Redlined Neighborhoods in Proximity to Freeways
+
+This is an ArcGIS Story map, submitted for Geospatial Technology Management for Sustainability Science, a upper-division course for Spatial Sciences, at the University of Southern California. In understanding the relationship between between freeways and parks/greenspaces, this project uses spatial analysis to understand environmental justice in relation to the disproportionate exposure of air pollution on parks and communities within historically redlined neighborhoods. 
+
+View the ArcGIS Storymap [Here](https://storymaps.arcgis.com/stories/f659ea0838e04fa1aa1a854489facad7)
+
 {% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" %}
+
