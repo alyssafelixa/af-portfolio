@@ -17,5 +17,10 @@ This is an ArcGIS Story map, submitted for Geospatial Technology Management for 
 
 View the ArcGIS Storymap [Here](https://storymaps.arcgis.com/stories/f659ea0838e04fa1aa1a854489facad7)
 
+## Leave No One Behind: Centering Community in Citizen Science
+
+This is an ArcGIS Story map for the final project and capstone of the GIS and Sustainability Science minor, submitted for Geospatial Technology Management for Sustainability Science, a upper-division course for Spatial Sciences, at the University of Southern California. This project uses spatial analysis to build an index that highlights social vulnerability, particularly focusing on census tracts that may be impacted by lack of representation in Citizen Science projects. 
+
+View the ArcGIS Storymap [Here](https://storymaps.arcgis.com/stories/874b35727d254499baf861cf9cfb5781)
 {% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" %}
 
