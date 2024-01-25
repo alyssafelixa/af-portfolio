@@ -23,6 +23,3 @@ This is an ArcGIS Story map for the final project and capstone of the GIS and Su
 
 View the ArcGIS Storymap [Here](https://storymaps.arcgis.com/stories/874b35727d254499baf861cf9cfb5781)
 
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" %}
-
